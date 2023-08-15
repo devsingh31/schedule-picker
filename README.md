@@ -1,5 +1,5 @@
 # schedule-picker
-this is a schedule picker program that will grade classes based on difficulty and has a threshold set where the classes together will be too difficult or manageable for the set quarter or semester
+this is a schedule picker program that will grade UC Davis Computer Science classes based on difficulty and has a threshold set where the classes together will be too difficult or manageable for the set quarter or semester
 the classes input is set in the code where the user can add classes in with the correspinding difficulty.
 then the fucntion where all classes are together is set for making the schedule
 the threshold is set at 15 difficulty points
