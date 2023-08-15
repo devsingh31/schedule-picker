@@ -13,11 +13,18 @@ def is_schedule_manageable(selected_classes, threshold):
 
 def main():
     classes = [
-        Class("math", 7),
-        Class("English", 6),
-        Class("chemistry", 8),
-        Class("sociology", 3),
-        Class("psychology", 4),
+        Class("ECS020", 4),
+        Class("ECS036A", 4),
+        Class("ECS036B", 4),
+        Class("ECS036C", 4),
+        Class("ECS050", 6),
+        Class("ECS122A", 7),
+        Class("ECS120", 8),
+        Class("ECS140A", 7),
+        Class("ECS150", 7),
+        Class("ECS154A", 8),
+        Class("ECS132", 6),
+
     ]
     
     class_schedule = input("Enter the classes in your schedule (comma-separated): ").split(", ")
